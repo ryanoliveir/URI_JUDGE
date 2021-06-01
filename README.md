@@ -10,6 +10,7 @@ Aqui você encontra algumas resoluções de problemas do URI Online Judge. Esses
 *     Produto Simples
 *     Média 1
 *     Média 2
+*     Diferença
 
 
 >  <b> Importante⚠️ </b>
