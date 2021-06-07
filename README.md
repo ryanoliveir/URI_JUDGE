@@ -11,6 +11,9 @@ Aqui você encontra algumas resoluções de problemas do URI Online Judge. Esses
 *     Média 1
 *     Média 2
 *     Diferença
+*     Salário
+*     Salário com Bônus
+*     Cálculo Simples
 
 
 >  <b> Importante⚠️ </b>
