@@ -1,9 +1,13 @@
-![ea4c1580-bc03-11ea-9711-5b355fc67a34](https://user-images.githubusercontent.com/82355865/120260326-0caf3e80-c26c-11eb-9b0a-a32b460a3e21.png)
-# URI JUDGE
-Aqui você encontra algumas resoluções de problemas do [URI Online Judge](https://www.urionlinejudge.com.br/). Esses problema pertencem a categoria iniciante, submetidas na linguagem <b>`python`</b> .
+![logo](https://user-images.githubusercontent.com/82355865/147989422-15a86138-8b0d-4aea-a3c2-1715be570d41.jpg)
+# BEECROWD
+Aqui você encontra algumas resoluções de problemas do [BEECROWD](https://www.beecrowd.com.br/judge/pt/login). Esses problema pertencem a categoria iniciante, com soluções submetidas na linguagem <b>`python`</b> .
 
+>  <b> Importante⚠️ </b>
 
-#### Problemas disponíveis nesse repositório:
+🚫 **NÃO copie os códigos. O URI possuiu um sistema que detecta códigos copiados de repositórios online como este.**
+**A finalidade desse repositório e ajudar no entendimento da lógica usada no código. Lembre-se de submeter seu próprio código com a sua forma de resolver :smile:.**
+
+#### Problemas disponíveis neste repositório:
 *     Extremamente Básico
 *     Área do Círculo
 *     Soma Simples
@@ -16,7 +20,4 @@ Aqui você encontra algumas resoluções de problemas do [URI Online Judge](http
 *     Cálculo Simples
 
 
->  <b> Importante⚠️ </b>
 
-🚫 **NÃO copie os códigos. O URI possuiu um sistema que detecta códigos copiados de repositórios online como este.**
-**A finalidade desse repositório e ajudar no entendimento da lógica usada no código. Lembre-se de submeter seu próprio código com a sua forma de resolver :smile:.**
