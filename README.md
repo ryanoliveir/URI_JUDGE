@@ -8,16 +8,17 @@ Aqui você encontra algumas resoluções de problemas do [BEECROWD](https://www.
 **A finalidade desse repositório e ajudar no entendimento da lógica usada no código. Lembre-se de submeter seu próprio código com a sua forma de resolver :smile:.**
 
 #### Problemas disponíveis neste repositório:
-*     Extremamente Básico
-*     Área do Círculo
-*     Soma Simples
-*     Produto Simples
-*     Média 1
-*     Média 2
-*     Diferença
-*     Salário
-*     Salário com Bônus
-*     Cálculo Simples
-
+*     #1001 Extremamente Básico 
+*     #1002 Área do Círculo
+*     #1003 Soma Simples
+*     #1004 Produto Simples
+*     #1005 Média 1
+*     #1006 Média 2
+*     #1007 Diferença
+*     #1008 Salário
+*     #1009 Salário com Bônus
+*     #1010 Cálculo Simples
+*     #1011 Esféra
+*     #1012 Área
 
 
