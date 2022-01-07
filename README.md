@@ -20,6 +20,7 @@ Aqui você encontra algumas resoluções de problemas do [BEECROWD](https://www.
 *     #1010 Cálculo Simples
 *     #1011 Esféra
 *     #1012 Área
+*     #1013 O Maior
 *	  #1040 Média 3
 * 	  #1041 Coordenadas de um Ponto 
 * 	  #1042 Sort Simples
