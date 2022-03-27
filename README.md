@@ -5,7 +5,7 @@ Aqui você encontra algumas resoluções de problemas do [BEECROWD](https://www.
 >  <b> Importante⚠️ </b>
 
 🚫 **NÃO copie os códigos. O URI possuiu um sistema que detecta códigos copiados de repositórios online como este.**
-**A finalidade desse repositório e ajudar no entendimento da lógica usada no código. Lembre-se de submeter seu próprio código com a sua forma de resolver :smile:.**
+**A finalidade deste repositório é ajudar no entendimento da lógica usada no código. Lembre-se de submeter seu próprio código com a sua forma de resolver :smile:.**
 
 #### Problemas disponíveis neste repositório:
 *     #1001 Extremamente Básico 
